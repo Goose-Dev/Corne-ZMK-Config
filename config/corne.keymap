@@ -171,7 +171,19 @@
 
         caps {
             bindings = <&kp CAPS>;
-            key-positions = <3 2>;
+            key-positions = <3 4>;
+            layers = <0>;
+        };
+
+        greater {
+            bindings = <&kp GREATER_THAN>;
+            key-positions = <16 15>;
+            layers = <0>;
+        };
+
+        less {
+            bindings = <&kp LESS_THAN>;
+            key-positions = <15 14>;
             layers = <0>;
         };
     };
