@@ -97,8 +97,8 @@
             layers = <0>;
         };
 
-        esc {
-            bindings = <&kp ESCAPE>;
+        ScreenShot {
+            bindings = <&kp LG(LS(S))>;
             key-positions = <3 2>;
             layers = <0>;
         };
