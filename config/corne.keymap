@@ -107,24 +107,6 @@
             layers = <0>;
         };
 
-        copy {
-            bindings = <&kp LC(C)>;
-            key-positions = <27 26>;
-            layers = <0>;
-        };
-
-        paste {
-            bindings = <&kp LC(V)>;
-            key-positions = <27 28>;
-            layers = <0>;
-        };
-
-        cut {
-            bindings = <&kp LC(X)>;
-            key-positions = <28 26>;
-            layers = <0>;
-        };
-
         equal {
             bindings = <&kp EQUAL>;
             key-positions = <28 16>;
@@ -163,7 +145,7 @@
 
         caps {
             bindings = <&kp CAPS>;
-            key-positions = <3 4>;
+            key-positions = <26 27>;
             layers = <0>;
         };
 
@@ -182,12 +164,6 @@
         exclamation {
             bindings = <&kp EXCLAMATION>;
             key-positions = <1 13>;
-            layers = <0>;
-        };
-
-        ctrla {
-            bindings = <&kp LC(A)>;
-            key-positions = <28 27 26>;
             layers = <0>;
         };
 
