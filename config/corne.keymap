@@ -173,7 +173,7 @@
             layers = <3>;
         };
 
-        MoveCombo {
+        layer2 {
             bindings = <&mo 2>;
             key-positions = <37 36>;
         };
