@@ -13,19 +13,19 @@
 
         underscore {
             bindings = <&kp UNDER>;
-            key-positions = <18 30>;
+            key-positions = <9 21>;
             layers = <0>;
         };
 
         plus {
             bindings = <&kp PLUS>;
-            key-positions = <9 21>;
+            key-positions = <9 10>;
             layers = <0>;
         };
 
         minus {
             bindings = <&kp MINUS>;
-            key-positions = <10 22>;
+            key-positions = <22 21>;
             layers = <0>;
         };
 
@@ -37,7 +37,7 @@
 
         slash {
             bindings = <&kp SLASH>;
-            key-positions = <32 31>;
+            key-positions = <20 19>;
             layers = <0>;
         };
 
@@ -67,7 +67,7 @@
 
         pipe {
             bindings = <&kp PIPE>;
-            key-positions = <33 21>;
+            key-positions = <10 22>;
             layers = <0>;
         };
 
@@ -91,13 +91,13 @@
 
         backslash {
             bindings = <&kp BACKSLASH>;
-            key-positions = <27 28>;
+            key-positions = <16 15>;
             layers = <0>;
         };
 
         equal {
             bindings = <&kp EQUAL>;
-            key-positions = <28 16>;
+            key-positions = <33 34>;
             layers = <0>;
         };
 
@@ -133,7 +133,7 @@
 
         less {
             bindings = <&kp LESS_THAN>;
-            key-positions = <26 27>;
+            key-positions = <27 28>;
             layers = <0>;
         };
 
